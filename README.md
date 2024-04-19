@@ -3,7 +3,7 @@ Visualization and Analysis of stock market data in correlation with historic eve
 
 There are 2 notebooks: data_generation.ipynb and data_analysis.ipynb
 
-In order to run the contents of data_analysis, you will want to download all .csv files in this repository AND run the cells in data_generation.ipynb to download the large dataset.
+In order to run the contents of data_analysis, you will want to download the nasdaq_screener.csv file in this repository AND run the cells in data_generation.ipynb to create the other csv files necessary.
 
 You may also need to install python packages like yfinance and mplfinance.
 
